@@ -1,11 +1,10 @@
 Optimized-editors
 
-Se refiere a la optimización de los editores de Código como:
--->Vi
--->Vim
--->Komodo
----------------------------------------------------------------------------------
-Vi y Vim
+It refers to the optimization of code editors such as
+-> Vi
+-> Vim
+-> Komodo
+-------------------------------------------------- -------------------------------
+Vi and Vim
 
-Se agradece a Steve Francia por su excelente aporte en Github pues la base de
-este archivo de configuración
+We thank Steve for his excellent contribution France on Github as the basis for this configuration file
